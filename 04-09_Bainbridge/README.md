@@ -22,7 +22,7 @@ Understanding the content of memory is essential to teasing apart its underlying
 
 **Registration:** 
 
-The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/vp0tdumspzgikuc8ngO3bOop5UYB2sYbsA) to request access. 
+The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/vp0tdumspzgikuc8ngO3bOop5UYB2sYbsA) to request access. Only accounts affliated with the University of Chicago will be allowed to join the meeting.  
 
 ---
 
