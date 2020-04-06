@@ -4,6 +4,7 @@
 ### University of Chicago
 
 
+
 The [Computation Workshop](https://macss.uchicago.edu/content/computation-workshop) at the University of Chicago cordially invites you to attend this week's event:
 
 # Drawings of Real-world Scenes During Free Recall Reveal Detailed Object and Spatial Information in Memory
@@ -18,6 +19,10 @@ Understanding the content of memory is essential to teasing apart its underlying
 
 
 [**Wilma Bainbridge**](http://wilmabainbridge.com//) is an Assistant Professor at the University of Chicago Department of Psychology. She leads the Brain Bridge Lab, which focuses on examining the bridge between perception and memory, through the lens of psychophysical experiments, neuroimaging, and drawing studies. One key branch of her research focuses on the concept of memorability, in which items have an intrisic ability to affect our memory for them.
+
+**Registration:** 
+
+The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/vp0tdumspzgikuc8ngO3bOop5UYB2sYbsA) to request access. 
 
 ---
 
