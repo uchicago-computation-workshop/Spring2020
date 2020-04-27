@@ -45,17 +45,19 @@ This week's suggested readings:
 
 Chapter 1: Introduction to Human-in-the-Loop Machine Learning
 
-Chapter 4: Uncertainty Sampling
-
-Chapter 5: Diversity Sampling 
-
-Chapter 6: Advanced Active Learning 
-
-If you are short on time, plese read two summary articles that Dr. Munro published recently on the PyTorch official blog:
-
 [Active Learning with PyTorch](https://medium.com/pytorch/https-medium-com-robert-munro-active-learning-with-pytorch-2f3ee8ebec)
 
 [Active Transfer Learning with PyTorch](https://medium.com/pytorch/active-transfer-learning-with-pytorch-71ed889f08c1)
+
+Optional Readings:
+
+The two PyTorch blogs summarize these three chapters, which you can also read for a deeper dive into the topics
+
+Chapter 3: Uncertainty Sampling
+
+Chapter 4: Diversity Sampling 
+
+Chapter 5: Advanced Active Learning 
 
 ---
 
