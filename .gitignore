@@ -41,6 +41,6 @@ vignettes/*.pdf
 .Renviron
 
 # R Markdown
-.Rmd
-.css
-.html
+*.Rmd
+*.css
+*.html
