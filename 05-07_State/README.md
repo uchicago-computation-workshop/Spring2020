@@ -23,10 +23,10 @@
 <h4 class=pfblock-header3> Thursday, 05/07 </h4>
 <h4 class=pfblock-header3> 11:00am-12:20pm </h4>
 
-<br><br>
+<br>
 
-<p class=footertext2>
 **Bogdan State** is a computational sociologist and a member of Facebook’s Core Data Science team. He received an M.A. and PhD in sociology from Stanford University. He is interested in using digital data to decipher the basic mechanisms of human social interaction. His experience includes over four years working as a data scientist in Silicon Valley. At Facebook, Bogdan’s contributions have ranged from developing large-scale business intelligence systems to improving the performance of ranking models. He gets excited easily when left near very large social datasets.
+
 
 <br>
 
