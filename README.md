@@ -10,3 +10,11 @@
 **Wilma Bainbridge** - Assistant Professor at the University of Chicago Department of Psychology
 
 <br>
+
+### April 30th - [Robert Munro](https://github.com/uchicago-computation-workshop/Spring2020/tree/master/04-09_Bainbridge)
+
+<div><img src="http://www.robertmunro.com/robert_munro_portrait_sq.jpg" width="300" height="301"></div>
+
+**Wilma Bainbridge** - founder & CEO of Machine Learning Consulting
+
+<br>
