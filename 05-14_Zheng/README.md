@@ -25,7 +25,6 @@
 
 
 <p class=footertext2>
-
 **Summary:** 
 <br>
 
@@ -45,12 +44,6 @@ Paper 2
 <br>
 Our work demonstrates a new set of silent reconnaissance attacks, which leverages the presence of commodity WiFi devices to track users inside private homes and offices, without compromising any WiFi network, data packets, or devices. We show that just by sniffing existing WiFi signals, an adversary can accurately detect and track movements of users inside a building. This is made possible by our new signal model that links together human motion near WiFi transmitters and variance of multipath signal propagation seen by the attacker sniffer outside of the property. The resulting attacks are cheap, highly effective, and yet difficult to detect. We implement the attack using a single commodity smartphone, deploy it in 11 real-world offices and residential apartments, and show it is highly effective. Finally, we evaluate potential defenses, and propose a practical and effective defense based on AP signal obfuscation.
 
-
-
-
-
-
-
 </p>
 
 <br>
@@ -61,15 +54,13 @@ Our work demonstrates a new set of silent reconnaissance attacks, which leverage
 <br><br>
 
 <p class=footertext2>
-
 **Heather Zheng** is the Neubauer Professor of Computer Science at University of Chicago. She received her PhD in Electrical and Computer Engineering from University of Maryland, College Park in 1999. Prior to joining University of Chicago in 2017, She spent 6 years in industry labs (Bell-Labs, NJ and Microsoft Research Asia), and 12 years at University of California at Santa Barbara. At UChicago, she co-directs the SAND Lab (Systems, Algorithms, Networking and Data) together with Prof. Ben Y. Zhao.
 </p>
 
 <br>
 
-<p class=footertext2>
 **Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJ0lcOiprjwiHtzBRiEifkDmkL1B806YPiVq) to request access. Only accounts affiliated with the University of Chicago will be granted access.
-</p>
+
 
 This week's suggested readings:
 
@@ -81,17 +72,13 @@ Proceedings of <i>ACM CHI Conference on Human Factors in Computing Systems (CHI)
 [Project Webpage](http://sandlab.cs.uchicago.edu/jammer/)
 [[Abstract](http://people.cs.uchicago.edu/~ravenben/publications/abstracts/ultra-chi20.html), Paper: [PDF](http://people.cs.uchicago.edu/~ravenben/publications/pdf/ultra-chi20.pdf) (1.2MB)]
 
-
-<b>Et Tu Alexa? When Commodity WiFi Devices Turn into Adversarial Motion Sensors</b>
+<b>Et Tu Alexa? When Commodity WiFi Devices Turn into Adversarial Motion Sensors</b><br>
 Yanzi Zhu, Zhujun Xiao, Yuxin Chen, Zhijing Li, Max Liu, Ben Y. Zhao, Haitao Zheng
 Proceedings of <i>Network and Distributed System Security Symposium (NDSS)</i>,
 San Diego, CA, February 2020.
 [[Abstract](http://people.cs.uchicago.edu/~ravenben/publications/abstracts/advloc-ndss20.html), Paper: [PDF](http://people.cs.uchicago.edu/~ravenben/publications/pdf/advloc-ndss20.pdf) (685KB)]
 
-
 <br>
-
-<br><br>
 
 ---
 
