@@ -1,18 +1,3 @@
----
-output:
-  html_document:
-    highlight: null
-    css: style.css
-    self_contained: no
-    keep_md: true
----
-
-
-
-
-
-<br>
-
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
 <h1 class=pfblock-header3> Heather Zheng</h1>
@@ -52,7 +37,7 @@ We engineered a wearable microphone jammer that is capable of disabling micropho
 Unfortunately, ultrasonic jammers are built from multiple transducers and therefore exhibit blind spots, i.e., locations in which transducers destructively interfere and where a micro-phone cannot be jammed. To solve this, our device exploits a synergy between ultrasonic jamming and the naturally occurring movements that users induce on their wearable devices (e.g., bracelets) as they gesture or walk. We demonstrate that these movements can blur jamming blind spots and increase jamming coverage. Moreover, current jammers are also directional, requiring users to point the jammer to a microphone; instead, our wearable bracelet is built in a ring-layout that allows it to jam in multiple directions. This is beneficial in that it allows our jammer to protect against microphones hidden out of sight. <br>
 
 We evaluated our jammer in a series of experiments and found that: (1) it jams in all directions, e.g., our device jams over 87% of the words uttered around it in any direction, while existing devices jam only 30% when not pointed directly at the microphone; (2) it exhibits significantly less blind spots; and, (3) our device induced a feeling of privacy to participants of our user study. We believe our wearable provides stronger privacy in a world in which most devices are constantly eavesdropping on our conversations.
- 
+
 
 <br>
 
