@@ -24,9 +24,7 @@
 
 
 
-<p class=footertext2>
 **Summary:** 
-<br>
 
 Paper 1
 <br>
@@ -51,15 +49,14 @@ Our work demonstrates a new set of silent reconnaissance attacks, which leverage
 <h4 class=pfblock-header3> Thursday, 05/14 </h4>
 <h4 class=pfblock-header3> 11:00am-12:20pm </h4>
 
-<br><br>
+<br>
 
-<p class=footertext2>
 **Heather Zheng** is the Neubauer Professor of Computer Science at University of Chicago. She received her PhD in Electrical and Computer Engineering from University of Maryland, College Park in 1999. Prior to joining University of Chicago in 2017, She spent 6 years in industry labs (Bell-Labs, NJ and Microsoft Research Asia), and 12 years at University of California at Santa Barbara. At UChicago, she co-directs the SAND Lab (Systems, Algorithms, Networking and Data) together with Prof. Ben Y. Zhao.
-</p>
 
 <br>
 
 **Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJ0lcOiprjwiHtzBRiEifkDmkL1B806YPiVq) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+
 
 
 This week's suggested readings:
