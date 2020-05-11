@@ -17,7 +17,7 @@ date <- "05/14"
 week_folder <- "05-14_Zheng"
 
 
-title <- "Wearable Microphone Jamming / Et Tu Alexa? When Commodity WiFi Devices Turn into Adversarial Motion Sensors"
+title <- "Protecting Privacy in a World Filled with Smart Devices"
 
 
 speaker <- "Heather Zheng"
@@ -78,27 +78,7 @@ week_repo <- paste0("https://github.com/uchicago-computation-workshop/",quarter,
 **Summary:** 
 <br>
 
-Paper 1
-<br>
-
-We engineered a wearable microphone jammer that is capable of disabling microphones in its user's surroundings, including hidden microphones. Our device is based on a recent exploit that leverages the fact that when exposed to ultrasonic noise, commodity microphones will leak the noise into the audible range. <br>
-
-Unfortunately, ultrasonic jammers are built from multiple transducers and therefore exhibit blind spots, i.e., locations in which transducers destructively interfere and where a micro-phone cannot be jammed. To solve this, our device exploits a synergy between ultrasonic jamming and the naturally occurring movements that users induce on their wearable devices (e.g., bracelets) as they gesture or walk. We demonstrate that these movements can blur jamming blind spots and increase jamming coverage. Moreover, current jammers are also directional, requiring users to point the jammer to a microphone; instead, our wearable bracelet is built in a ring-layout that allows it to jam in multiple directions. This is beneficial in that it allows our jammer to protect against microphones hidden out of sight. <br>
-
-We evaluated our jammer in a series of experiments and found that: (1) it jams in all directions, e.g., our device jams over 87% of the words uttered around it in any direction, while existing devices jam only 30% when not pointed directly at the microphone; (2) it exhibits significantly less blind spots; and, (3) our device induced a feeling of privacy to participants of our user study. We believe our wearable provides stronger privacy in a world in which most devices are constantly eavesdropping on our conversations.
- 
-
-<br>
-
-Paper 2
-<br>
-Our work demonstrates a new set of silent reconnaissance attacks, which leverages the presence of commodity WiFi devices to track users inside private homes and offices, without compromising any WiFi network, data packets, or devices. We show that just by sniffing existing WiFi signals, an adversary can accurately detect and track movements of users inside a building. This is made possible by our new signal model that links together human motion near WiFi transmitters and variance of multipath signal propagation seen by the attacker sniffer outside of the property. The resulting attacks are cheap, highly effective, and yet difficult to detect. We implement the attack using a single commodity smartphone, deploy it in 11 real-world offices and residential apartments, and show it is highly effective. Finally, we evaluate potential defenses, and propose a practical and effective defense based on AP signal obfuscation.
-
-
-
-
-
-
+Thanks to near-ubiquitous deployment of smart devices (e.g. security cameras, voice assistants, smart appliances), our homes, offices, and many public spaces are filled with IoT devices. While initially designed to improve efficiency and quality of our life,  these devices also pose a real security and privacy risk to all of us.   In this talk, we will discuss two types of security and privacy risks related to smart devices:  an explicit one (microphones that commonly exist in many devices) and an implicit one (WiFi devices that can silently monitor our movements behind the wall using WiFi  signals).   We will then discuss practical defense mechanisms against those two risks.  
 
 </p>
 
@@ -111,7 +91,7 @@ Our work demonstrates a new set of silent reconnaissance attacks, which leverage
 
 <p class=footertext2>
 
-**`r speaker`** is the Neubauer Professor of Computer Science at University of Chicago. She received her PhD in Electrical and Computer Engineering from University of Maryland, College Park in 1999. Prior to joining University of Chicago in 2017, She spent 6 years in industry labs (Bell-Labs, NJ and Microsoft Research Asia), and 12 years at University of California at Santa Barbara. At UChicago, she co-directs the SAND Lab (Systems, Algorithms, Networking and Data) together with Prof. Ben Y. Zhao.
+**`r speaker`**  received her PhD degree from University of Maryland, College Park in 1999. After spending six years as researchers in industry labs (Bell-Labs, Crawford Hill, NJ, and Microsoft Research Asia), she joined the UC Santa Barbara faculty in 2005, and became Associate and Full professor in 2009 and 2013, respectively. In July 2017, Prof. Zheng joined University of Chicago as the Neubauer Professor in Computer Science. Some of her awards include the IEEE Fellow (2015), the MIT Technology Review’s TR-35 (Young Innovators Under 35) and the World Technology Network Fellow.   Professor Zheng has been actively working on security and privacy issues for both machine learning models and mobile computing systems. Her research work has been frequently featured by media outlets, such as New York Times, Boston Globe, LA Times, MIT Technology Review, and Computer World.   Her work on  cognitive radios was named the MIT Technology Review’s top-10 Emerging Technologies in 2006.  She was the TPC co-chair of MobiCom’15 and DySPAN’11 conferences. Currently she serves on the steering committee of MobiCom and as the chair of the SIGMOBILE Highlights committee.  
 </p>
 
 <br>
@@ -119,6 +99,8 @@ Our work demonstrates a new set of silent reconnaissance attacks, which leverage
 <p class=footertext2>
 **Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](`r zoom_url`) to request access. Only accounts affiliated with the University of Chicago will be granted access.
 </p>
+
+<br>
 
 This week's suggested readings:
 
