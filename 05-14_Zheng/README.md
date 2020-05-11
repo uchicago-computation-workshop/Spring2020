@@ -42,14 +42,12 @@ Thanks to near-ubiquitous deployment of smart devices (e.g. security cameras, vo
 
 <br><br>
 
-<p class=footertext2>
 **Heather Zheng**  received her PhD degree from University of Maryland, College Park in 1999. After spending six years as researchers in industry labs (Bell-Labs, Crawford Hill, NJ, and Microsoft Research Asia), she joined the UC Santa Barbara faculty in 2005, and became Associate and Full professor in 2009 and 2013, respectively. In July 2017, Prof. Zheng joined University of Chicago as the Neubauer Professor in Computer Science. Some of her awards include the IEEE Fellow (2015), the MIT Technology Review’s TR-35 (Young Innovators Under 35) and the World Technology Network Fellow.   Professor Zheng has been actively working on security and privacy issues for both machine learning models and mobile computing systems. Her research work has been frequently featured by media outlets, such as New York Times, Boston Globe, LA Times, MIT Technology Review, and Computer World.   Her work on  cognitive radios was named the MIT Technology Review’s top-10 Emerging Technologies in 2006.  She was the TPC co-chair of MobiCom’15 and DySPAN’11 conferences. Currently she serves on the steering committee of MobiCom and as the chair of the SIGMOBILE Highlights committee.  
-</p>
+
 
 <br>
 
 **Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJ0lcOiprjwiHtzBRiEifkDmkL1B806YPiVq) to request access. Only accounts affiliated with the University of Chicago will be granted access.
-
 
 <br>
 
@@ -58,15 +56,14 @@ This week's suggested readings:
 <br>
 
 <b>Wearable Microphone Jamming</b> <br>
-Yuxin Chen, Huiying Li, Shan-Yuan Teng, Steven Nagels, Zhijing Li, Pedro Lopes, Ben Y. Zhao, Haitao Zheng Proceedings of <i>ACM CHI Conference on Human Factors in Computing Systems (CHI)</i>, <br> Honolulu, HI, April 2020. <br>
-[Project Webpage](http://sandlab.cs.uchicago.edu/jammer/)
+Yuxin Chen, Huiying Li, Shan-Yuan Teng, Steven Nagels, Zhijing Li, Pedro Lopes, Ben Y. Zhao, Haitao Zheng <br>Proceedings of <i>ACM CHI Conference on Human Factors in Computing Systems (CHI)</i>, <br> Honolulu, HI, April 2020. <br>
+[Project Webpage](http://sandlab.cs.uchicago.edu/jammer/)<br>
 [[Abstract](http://people.cs.uchicago.edu/~ravenben/publications/abstracts/ultra-chi20.html), Paper: [PDF](http://people.cs.uchicago.edu/~ravenben/publications/pdf/ultra-chi20.pdf) (1.2MB)]
 
-
-<b>Et Tu Alexa? When Commodity WiFi Devices Turn into Adversarial Motion Sensors</b>
-Yanzi Zhu, Zhujun Xiao, Yuxin Chen, Zhijing Li, Max Liu, Ben Y. Zhao, Haitao Zheng
-Proceedings of <i>Network and Distributed System Security Symposium (NDSS)</i>,
-San Diego, CA, February 2020.
+<b>Et Tu Alexa? When Commodity WiFi Devices Turn into Adversarial Motion Sensors</b><br>
+Yanzi Zhu, Zhujun Xiao, Yuxin Chen, Zhijing Li, Max Liu, Ben Y. Zhao, Haitao Zheng<br>
+Proceedings of <i>Network and Distributed System Security Symposium (NDSS)</i>,<br>
+San Diego, CA, February 2020.<br>
 [[Abstract](http://people.cs.uchicago.edu/~ravenben/publications/abstracts/advloc-ndss20.html), Paper: [PDF](http://people.cs.uchicago.edu/~ravenben/publications/pdf/advloc-ndss20.pdf) (685KB)]
 
 
