@@ -34,3 +34,13 @@
 **Heather Zheng** - Neubauer Professor of Computer Science at the University of Chicago
 
 <br>
+
+
+
+### May 21st - [Molly Lewis](https://github.com/uchicago-computation-workshop/Spring2020/tree/master/05-21_Lewis)
+
+<div><img src="http://www.andrew.cmu.edu/user/mollylew/pics/mll4.jpg" width="238" height="238"></div>
+
+**Molly Lewis** - Research Scientist at Carnegie Mellon University in the Psychology and Social and Decision Sciences Departments
+
+<br>
