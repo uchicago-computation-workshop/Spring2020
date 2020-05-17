@@ -44,3 +44,7 @@
 **Molly Lewis** - Research Scientist at Carnegie Mellon University in the Psychology and Social and Decision Sciences Departments
 
 <br>
+
+**For MACSS students**
+
+Run "python MyGitHubParticipation.py [username] [password]" to retrieve your github participate record.  Do not include the brackets in your command. 
