@@ -45,6 +45,13 @@
 
 <br>
 
+### May 28th - [Lynette Shaw](https://github.com/uchicago-computation-workshop/Spring2020/tree/master/05-28_Shaw)
+
+<div><img src="https://lynetteallenshaw.files.wordpress.com/2015/10/cropped_4.jpg" width="238" height="238"></div>
+
+**Molly Lewis** - Assistant Professor of Complex Systems at University of Michigan, Ann Arbor
+<br>
+
 **For MACSS students**
 
 Run "python MyGitHubParticipation.py [username] [password]" to retrieve your github participate record.  Do not include the brackets in your command. 
